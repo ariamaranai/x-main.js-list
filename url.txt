@@ -346,10 +346,6 @@ https://abs.twimg.com/responsive-web/client-web/main.0606b9aa.js
 https://abs.twimg.com/responsive-web/client-web/main.0607e838.js
 https://abs.twimg.com/responsive-web/client-web/main.06104225.js
 https://abs.twimg.com/responsive-web/client-web/main.06131038.js
-https://abs.twimg.com/responsive-web/client-web/main.0606b9aa.js
-https://abs.twimg.com/responsive-web/client-web/main.0607e838.js
-https://abs.twimg.com/responsive-web/client-web/main.06104225.js
-https://abs.twimg.com/responsive-web/client-web/main.06131038.js
 https://abs.twimg.com/responsive-web/client-web/main.0615607a.js
 https://abs.twimg.com/responsive-web/client-web/main.0617d1ba.js
 https://abs.twimg.com/responsive-web/client-web/main.061b100a.js
@@ -448,12 +444,8 @@ https://abs.twimg.com/responsive-web/client-web/main.07c589fa.js
 https://abs.twimg.com/responsive-web/client-web/main.07c7b72a.js
 https://abs.twimg.com/responsive-web/client-web/main.07c8eb8a.js
 https://abs.twimg.com/responsive-web/client-web/main.07cc3a5a.js
-https://abs.twimg.com/responsive-web/client-web/main.07c589fa.js
-https://abs.twimg.com/responsive-web/client-web/main.07c7b72a.js
-https://abs.twimg.com/responsive-web/client-web/main.07c8eb8a.js
-https://abs.twimg.com/responsive-web/client-web/main.07cc3a5a.js
 https://abs.twimg.com/responsive-web/client-web/main.07d5feba.js
-https://abs.twimg.com/responsive-web/client-web/main.07d69a6a.js 
+https://abs.twimg.com/responsive-web/client-web/main.07d69a6a.js
 https://abs.twimg.com/responsive-web/client-web/main.07e0f1da.js
 https://abs.twimg.com/responsive-web/client-web/main.07e1ef75.js
 https://abs.twimg.com/responsive-web/client-web/main.07e5279a.js
@@ -625,5 +617,3 @@ https://abs.twimg.com/responsive-web/client-web/main.0a65c1fa.js
 https://abs.twimg.com/responsive-web/client-web/main.0a6a60ea.js
 https://abs.twimg.com/responsive-web/client-web/main.0a6bc8da.js
 https://abs.twimg.com/responsive-web/client-web/main.0a725be5.js
--- 176000000
-https://abs.twimg.com/responsive-web/client-web/main.e64374ea.js
